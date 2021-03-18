@@ -1,0 +1,4 @@
+git init (initializing, only once at the beginning)
+
+git status
+git add .           (add all files)
